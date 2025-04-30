@@ -378,6 +378,10 @@ h3.my-profession {
   margin: 15px 0;
 }
 
+h3.sub-title {
+  color: var(--text-black-900);
+}
+
 .typing {
   color: transparent;
 }
